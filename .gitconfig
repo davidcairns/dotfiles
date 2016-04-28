@@ -1,0 +1,20 @@
+[user]
+	name = David Cairns
+	email = dcairns@oblong.com
+[alias]
+	b = branch
+	ci = commit
+	st = status
+	dc = diff --cached
+	aa = add --all
+	co = checkout
+	dp = diff --patience
+	rc = rebase --continue
+	rs = rebase --skip
+	ra = rebase --abort
+	d = diff
+
+[diff]
+	algorithm = patience
+[push]
+	default = simple

@@ -1,6 +1,5 @@
 [user]
 	name = David Cairns
-	email = dcairns@oblong.com
 [alias]
 	b = branch
 	ci = commit
